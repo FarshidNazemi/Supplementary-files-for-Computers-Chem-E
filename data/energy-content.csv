@@ -1,0 +1,35 @@
+ref,https://world-nuclear.org/information-library/facts-and-figures/heat-values-of-various-fuels,,
+Process,UUID,Unit,Conversion (MJ/unit)
+"Anthracite coal, combusted in industrial boiler",27e8fce4-a5c1-37af-84b9-763582a5ca3e,kg,23.9
+"Bituminous coal, combusted in industrial boiler",26465530-69ff-3c68-834f-c67ccb6ee1b2,kg,23.9
+"Combustion, dry wood residue, AP-42",6c96a609-cd7e-3f19-a151-27deb823d3e4,MJ,1
+"Combustion, wet wood residue, AP-42",5198d618-7bc8-3639-b4a1-de71d6d5f49a,MJ,1
+"Diesel, combusted in industrial boiler",53804132-4bd6-3b18-bfbd-14ac762431ef,L,37.4
+"Diesel, combusted in industrial equipment",d6ad7035-5498-3237-8abd-50e93b1eef89,L,37.4
+"Gasoline, combusted in equipment",d3e13675-1455-375f-a557-bb8234de75ff,L,34.5
+"Heat, onsite boiler, hardwood mill average, NE-NC",6b80eeee-54ed-3f0f-82cd-8c29e3aa5d24,MJ,1
+"Heat, onsite boiler, hardwood mill, average, SE",d85c6177-4580-35f0-afd6-52125ababf10,MJ,1
+"Lignite coal, combusted in industrial boiler",1b0f75b8-e749-3eb2-8727-de6a22f60646,kg,23.9
+"Liquefied petroleum gas, combusted in industrial boiler",4eec7a31-b920-3f91-b7c3-924f2aa92ecc,L,26
+"Natural gas, combusted in industrial boiler",5b81b61c-4d10-3bed-9926-8a5f868f5174,m3,40
+"Natural gas, combusted in industrial boiler, at hydrocracker, for butadiene",39abf743-0b9e-33e3-8752-b418609504f1,m3,40
+"Natural gas, combusted in industrial boiler, at hydrocracker, for ethylene",29d771d7-71ec-3a22-bbd0-8709d5a328e2,m3,40
+"Natural gas, combusted in industrial boiler, at hydrocracker, for propylene",0f528ea6-57a9-365a-a4af-4132ebe27cae,m3,40
+"Natural gas, combusted in industrial boiler, at hydrocracker, for pyrolysis gas",8a0090ee-4054-322f-a65d-15c8ee6ca915,m3,40
+"Natural gas, combusted in industrial equipment",7b7babef-a97a-3510-88f2-ee70aa1fa03b,m3,40
+"Residual fuel oil, combusted in industrial boiler",9d9b6815-9349-30af-869b-57362428c42e,L,37
+"Wood fuel, MDF, generated on-site, combusted in industrial boiler",2fdc10ce-f75d-30d0-b1e7-672af0eb98fe,kg,16
+"Wood fuel, MDF, purchased, combusted in industrial boiler",e389edf2-979a-372c-b6e0-8de8bfd28c93,kg,16
+"Wood fuel, hardwood, gen at lumber mill, combusted in industrial boiler, NE-NC",5b12a6bf-921f-3e80-9bd4-1c250a6696fb,kg,16
+"Wood fuel, hardwood, generated at lumber mill, combusted in industrial boiler, SE",8a62a285-537e-36b0-bdc3-3af4bfd205a3,kg,16
+"Wood fuel, hardwood, generated at mill, combusted in industrial boiler, E",a555a537-a0f1-3e54-9008-1d56c5e342a6,kg,16
+"Wood fuel, hardwood, purchased, combusted in industrial boiler, E",2d43bb55-3817-37dc-a7b4-20c3304f07af,kg,16
+"Wood fuel, hardwood, purchased, combusted in industrial boiler, NE-NC",61d04f2c-c8df-3b9c-8def-60328506efd2,kg,16
+"Wood fuel, hardwood, purchased, combusted in industrial boiler, SE",db291182-7d45-38c4-8529-a9abc78e55e9,kg,16
+"Wood fuel, hardwood,gen at flooring prod plant, combusted in industrial boiler, E",2c6df723-416e-3164-a5f1-bb97081fc64f,kg,16
+"Wood fuel, softwood, gen at lumber mill, combusted in industrial boiler, NE-NC",66cf43e1-e3fe-36b4-8653-bb5b739b0f5e,kg,16
+"Wood fuel, softwood, purchased, combusted in industrial boiler, NE-NC",3a98c0e1-2ba4-33f1-8d88-35b7f92af534,kg,16
+"Wood fuel, unspecified",5dd973e3-0fc2-38d8-a25b-51b82ee2c2de,kg,16
+"Wood waste, unspecified, combusted in industrial boiler",3455f918-4a43-3b09-b06e-7402c12b8d45,kg,16
+"Wood, particleboard, generated on-site, combusted in industrial boiler",80fa4691-56d0-3019-a021-30c3b187e63e,kg,16
+"Wood, softwood, INW, generated at lumber mill, combusted in industrial boiler",c7aaeef5-a019-304e-959d-92fdccaf0896,kg,16
